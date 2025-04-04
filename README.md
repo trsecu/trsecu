@@ -1,7 +1,6 @@
 # 🍥 Naja
 
-# 💫 About Me:
-=🔒 **Cybersecurity**: Developing innovative tools for penetration testing, vulnerability assessment, and securing systems..  <br> - 🤖 **Automation**: Building smart bots and automation scripts to simplify complex tasks in the field of hacking and security.   <br>-  🌐 **API Mastery**: Leveraging a wide range of APIs to create powerful and efficient solutions.   <br>
+NooB Hat
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XrpRVWNj) 

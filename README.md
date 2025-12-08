@@ -1,9 +1,6 @@
 # 🍥 Naja
 
 
-## 🌀NooB Hat
-
-
 
 ### 🧰 Languages and Tools
 

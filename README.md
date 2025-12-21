@@ -41,11 +41,7 @@
 
 </div>
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naja-sec&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Naja-sec)
-
-</div>
 
 ---
 

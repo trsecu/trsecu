@@ -1,7 +1,7 @@
 # 🐍 Naja-sec
 
 
-<h3>🔐 Cybersecurity nerd who enjoys finding bugs and learning new tricks</h3>
+<h3>🔐 Cybersecurity nerd </h3>
 
 
 ### Tools I Play With
